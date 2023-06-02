@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/jaina/Desktop/GameVerse/Week 15 Build;C:/Users/jaina/Desktop/Week_14;C:/Users/jaina/Desktop/GameVerse/Week 14 Build;C:/Users/jaina/Desktop/GameVerse/Week 11 Build;C:/Users/jaina/Desktop/GameVerse/Week 10 Build;C:/Users/jaina/Desktop/GameVerse/Week 9 Build;C:/Users/jaina/Desktop/GameVerse/Week 9;C:/Users/jaina/Downloads/Week 9 Build;C:/Users/jaina/Desktop/GameVerse/Week 8 Builds;C:/Users/jaina/Desktop/GameVerse/Week  8 Builds\"}"
+            }
+        ]
+    }
+}

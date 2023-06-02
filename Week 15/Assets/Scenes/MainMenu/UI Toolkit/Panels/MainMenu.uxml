@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles/main_labels.uss?fileID=7433441132597879392&amp;guid=05d4d8b2c34614e7488bc2a7df1ff1bb&amp;type=3#main_labels" />
+    <Style src="project://database/Assets/UI%20Toolkit/Styles/main_buttons.uss?fileID=7433441132597879392&amp;guid=f9d459bafc33c4e62a69413717bb866d&amp;type=3#main_buttons" />
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-color: rgb(56, 56, 56); flex-direction: row; align-items: stretch; justify-content: space-between;">
+        <ui:VisualElement name="Sidebar" style="width: 30%; background-color: rgb(32, 30, 34); justify-content: center;">
+            <ui:Label text="GameVerse" display-tooltip-when-elided="true" name="Title" class="label-main-title" />
+            <ui:Button text="Start" display-tooltip-when-elided="true" name="Start" class="button-main-title" />
+            <ui:Button text="Settings" display-tooltip-when-elided="true" name="Settings" class="button-main-title" />
+            <ui:Button text="Quit" display-tooltip-when-elided="true" name="Quit" class="button-main-title" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

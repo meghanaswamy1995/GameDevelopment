@@ -1,0 +1,31 @@
+.button-main-title {
+    -unity-font-style: bold;
+    font-size: 33px;
+    background-color: rgba(37, 24, 46, 255);
+    color: rgba(239, 233, 248, 255);
+    border-left-color: rgba(116, 28, 224, 255);
+    border-right-color: rgba(116, 28, 224, 255);
+    border-top-color: rgba(116, 28, 224, 255);
+    border-bottom-color: rgba(116, 28, 224, 255);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    margin-left: 40px;
+    margin-right: 120px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.button-main-title:hover {
+    background-color: rgba(116, 28, 224, 255);
+    color: rgba(32, 30, 34, 255);
+}
+
+.button-main-title:active {
+    background-color: rgba(37, 24, 46, 255);
+}

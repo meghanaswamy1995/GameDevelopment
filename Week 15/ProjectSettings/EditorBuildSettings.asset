@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 2953e77ce3c95394a976b6e216a5264a
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: e542894e5670e3a45bdaf8f0fdb457b8
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9f5c414ed40a41040940f49969c109a8
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: b65c7c3bc9fb09341b0226d0e879d7c0
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 971cdf2a3f5fbbd45a526bb30c688885
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 88f5e40bbb10b6f459a033439bd9e101
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 8eb0ff83c54777f408e4513883eb5d25
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: c833e3ffced00e14b9723a0fa6c6e021
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 69461997bd5449a4583b0c9c1cd209ec
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: e1140a6a02df6d8418fd058d7e453493
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 2bad4e4ee4e2a414490b78e7c973ad9a
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: a89bd6b18f242084d826b9ced6eedd21
+  - enabled: 1
+    path: Assets/Scenes/Level 11.unity
+    guid: 6d0010c7ca651c44fa65e1143f0f6fac
+  - enabled: 1
+    path: Assets/Scenes/Level 12.unity
+    guid: 95a6b94578bd9304e8d21666006ab54e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level 13.unity
+    guid: 77281b05a00723f41b595c28457588e7
+  - enabled: 1
+    path: Assets/Scenes/Game End Screen.unity
+    guid: fd6098dc7268699419526710183b757c
+  - enabled: 1
+    path: Assets/Scenes/Win Screen.unity
+    guid: c57df560575de424eb3530b9bf3020e8
+  - enabled: 1
+    path: Assets/Scenes/NoHealth Screen.unity
+    guid: f7ec97d3c597bf5478d1647f85371ef5
+  - enabled: 1
+    path: Assets/Scenes/Timeup Screen.unity
+    guid: fef7ad7150e145c4a9bf10560f5e41ba
+  m_configObjects: {}
